@@ -1,0 +1,4 @@
+cv2
+numpy
+
+# libraries to be installed beforhand.
